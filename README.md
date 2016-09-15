@@ -1,1 +1,37 @@
 # dotfiles
+
+## Applications
+- aText
+- Atom
+  - APM
+- BetterSnapTool
+- Chrome Remote Desktop
+- Cleartext
+- Dash
+- Disk Inventory X
+- Endurance
+- Evernote
+- FileZilla
+- F.lux
+- Flycut
+- GitHub
+- Google Chrome
+- Google Drive
+- Helium
+- Kindle
+- Lacona
+- Mou
+- PSequel
+- Realm Browser
+- RescueTime
+- Screenhero
+- Shortcat
+- Sip
+- Sketch
+- Skype
+- Slack
+- Spotify
+- Sublime Text 2
+- Todoist
+- XCode
+- Zeplin
